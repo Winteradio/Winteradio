@@ -12,7 +12,7 @@ https://winteradio.notion.site/Portfolio-af248f1a95ae4cfb9ee5ee539983d836?pvs=4
 ## English
 https://winteradio.notion.site/Wonmock-Portfolio-90d32e5beacc4cde8a742bb41fd41784?pvs=4
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Winteradio&show_icons=true&theme=radical)
 <!--
 **Winteradio/Winteradio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
